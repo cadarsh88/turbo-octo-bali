@@ -1,4 +1,4 @@
----
+Check populate_db.py for creation of test data---
 mode: 'agent'
 model: GPT-4.1
 description: 'Create a Django project, start it, and run it'
